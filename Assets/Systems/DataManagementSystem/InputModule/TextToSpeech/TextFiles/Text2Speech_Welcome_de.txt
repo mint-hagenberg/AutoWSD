@@ -1,0 +1,4 @@
+﻿Hallo und herzlich willkommen zur Benutzerstudie zum hochautomatisierten Fahren.
+<emph>Vielen Dank,</emph> dass Sie mitmachen.
+Bitte folgen Sie den Anweisungen auf dem Heads-up Display.
+Wir wünschen Ihnen eine angenehme Fahrt.

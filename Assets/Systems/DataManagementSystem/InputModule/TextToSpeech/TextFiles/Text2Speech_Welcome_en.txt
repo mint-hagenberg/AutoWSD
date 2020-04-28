@@ -1,0 +1,4 @@
+﻿Hello and welcome to the user study on highly automated driving.
+<emph>Many thanks,</emph> for participating.
+Please follow the instructions on the windshield display.
+We wish you a pleasant journey.

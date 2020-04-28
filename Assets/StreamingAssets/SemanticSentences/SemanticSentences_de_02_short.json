@@ -1,0 +1,17 @@
+{
+	"data":
+	[
+		{
+			"sentence": "Ich liebe meine Eltern.",
+			"correct": true
+		},
+		{
+			"sentence": "Die Spinne fliegt in den Urlaub.",
+			"correct": false
+		},
+		{
+			"sentence": "Fußball ist ein Sport für drinnen und draußen.",
+			"correct": true
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"data":
+	[
+		{
+			"sentence": "I love my parents.",
+			"correct": true
+		},
+		{
+			"sentence": "The spider goes on vacation.",
+			"correct": false
+		},
+		{
+			"sentence": "Football is an indoor and outdoor sport.",
+			"correct": true
+		}
+	]
+}

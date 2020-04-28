@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LeftHand_HiRes
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _EMISSION _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BloomTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CompareTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DepthTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DoFTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DofExclusionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlareTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FrameMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LUTTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a83bfa14f540a2a43a0172cf0063a259, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScreenLum:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VignettingMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BloomDepthTreshold: 1
+    - _BlurScale: 1
+    - _BokehData3: 1000
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 0
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VignettingAspectRatio: 1
+    - _ZWrite: 1
+    - _isLeftHand: 1
+    m_Colors:
+    - _AFTint: {r: 1, g: 1, b: 1, a: 0.5}
+    - _Bloom: {r: 0.5, g: 0, b: 0, a: 1}
+    - _BloomWeights: {r: 0.35, g: 0.55, b: 0.7, a: 0.8}
+    - _BloomWeights2: {r: 0.35, g: 0.55, b: 0.7, a: 0.8}
+    - _BokehData: {r: 10, g: 1, b: 0, a: 1}
+    - _BokehData2: {r: 1000, g: 4, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorBoost: {r: 1.1, g: 1.1, b: 0.08, a: 0}
+    - _CompareParams: {r: 0.7853982, g: 0.001, b: 0, a: 0}
+    - _Dirt: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _Dither: {r: 5, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EyeAdaptation: {r: 0.1, g: 2, b: 0.7, a: 1}
+    - _FXColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Frame: {r: 50, g: 50, b: 50, a: 0}
+    - _Outline: {r: 0, g: 0, b: 0, a: 0.8}
+    - _Purkinje: {r: 1, g: 0.15, b: 0, a: 1}
+    - _Sharpen: {r: 2.5, g: 0.035, b: 0.5, a: 1}
+    - _SunCoronaRays1: {r: 0.02, g: 12, b: 0.001, a: 0}
+    - _SunCoronaRays2: {r: 0.05, g: 12, b: 0.1, a: 0}
+    - _SunData: {r: 0.1, g: 0.05, b: 3.5, a: 0.13}
+    - _SunGhosts1: {r: 0, g: 0.03, b: 0.6, a: 0.06}
+    - _SunGhosts2: {r: 0, g: 0.1, b: 0.2, a: 0.03}
+    - _SunGhosts3: {r: 0, g: 0.25, b: 0.4, a: 0.025}
+    - _SunGhosts4: {r: 0, g: 0.5, b: 0.3, a: 0.04}
+    - _SunHalo: {r: 0.22, g: 15.1415, b: 1, a: 1}
+    - _SunPos: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _SunTint: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Vignetting: {r: 0.29999998, g: 0.29999998, b: 0.29999998, a: 0.05}

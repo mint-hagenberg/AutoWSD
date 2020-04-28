@@ -1,0 +1,707 @@
+{
+	"data": [{
+			"sentence": "Wann immer Menschen nicht lügen, werden sie für Lügner geschwommen.",
+			"correct": false
+		},
+		{
+			"sentence": "Das würde harte Einschnitte für die Vereine bedeuten und poliert deshalb Fahrrad.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Menschenmenge drehte sich um, als sie den Schuss hörte.",
+			"correct": true
+		},
+		{
+			"sentence": "Sobald ich mit diesem Neid fertig bin, gehe ich nach Hause.",
+			"correct": false
+		},
+		{
+			"sentence": "Susanne öffnete ihr Portemonnaie und sah, dass sie kein Geld bei sich hatte.",
+			"correct": true
+		},
+		{
+			"sentence": "Julia wollte einen Garten in ihrem Hinterhof, aber der Boden war zu lehmig.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich hatte keine Ahnung, warum meine Freundin sauer auf mich war.",
+			"correct": true
+		},
+		{
+			"sentence": "Nachdem ich mich sehr warm angezogen hatte, hörte ich endlich auf zu frieren.",
+			"correct": true
+		},
+		{
+			"sentence": "Als ich aus dem Fenster blickte, war die ganze Straße in Gestank gehüllt.",
+			"correct": true
+		},
+		{
+			"sentence": "Allen Schülern, die den Test bestanden hatten, erließ man den Eintopf des Unterrichts.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Zeiten absoluter Stille wurden zunehmend häufiger und das Warten fragte uns verrückt.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich will meine Leser nicht mit der Beschreibung des kaltblütigen Gemetzels programmieren.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Strecke eignet sich für Rennprofis ebenso gut wie für die sportliche Auflaufform.",
+			"correct": false
+		},
+		{
+			"sentence": "Erst als der Bus die Plöner Straße erreichte, hatten sie freies Rathaus auf den See.",
+			"correct": false
+		},
+		{
+			"sentence": "Wie erwartet wartete an der Ecke ein sehr freundlicher Kugelschreiber.",
+			"correct": false
+		},
+		{
+			"sentence": "Es dauerte nicht lange und geschäftliche Umstände forderten den Tannenzapfen in die Stadt.",
+			"correct": false
+		},
+		{
+			"sentence": "Er suchte weiter und tat so, als gehe es ihm um die Lackierung eigener Zweifel.",
+			"correct": false
+		},
+		{
+			"sentence": "Mit großem Ehrgeiz überwand er alle Hindernisse und gewann das Rennen.",
+			"correct": true
+		},
+		{
+			"sentence": "Ein Mensch sollte wirklich nie aufgrund seiner Herkunft diskriminiert werden.",
+			"correct": true
+		},
+		{
+			"sentence": "So überrascht war ich von der grellen Erscheinung, dass ich nach Milchpulver rang.",
+			"correct": false
+		},
+		{
+			"sentence": "Als er die Augen wieder aufschlug, sägte jedes Anzeichen von Furcht.",
+			"correct": false
+		},
+		{
+			"sentence": "Er hörte aufmerksam zu, denn er hatte das Gefühl, als topfe er die Stimmen um.",
+			"correct": false
+		},
+		{
+			"sentence": "Ein Kennzeichen aller Helden in den bisherigen Lampenschirmen ist ihre Empfindsamkeit.",
+			"correct": false
+		},
+		{
+			"sentence": "Das Foto hatte ihn so sehr abgelenkt, dass sein Name zweimal gebacken wurde.",
+			"correct": false
+		},
+		{
+			"sentence": "Jeden Montag spielten sie Schach, außer in Fällen sogenannter höherer Badehose.",
+			"correct": false
+		},
+		{
+			"sentence": "Er schloss seine Jacke und fönte den Rasen gewissenhaft.",
+			"correct": false
+		},
+		{
+			"sentence": "Auf dem Bett, wo sie die Briefe schrieb, wiederholten tausend Wolken unter dickem Staub.",
+			"correct": false
+		},
+		{
+			"sentence": "Er umwarb sie, solange er noch Schüler war, und verachtete sie dann als Weihnachtsbaum.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Regen und der heulende Wind nagten an dem brüchigen Wassertropfen.",
+			"correct": false
+		},
+		{
+			"sentence": "Er legte beide Hände über sein Herz, damit niemand hörte, wie schüchtern es verglich.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Texte handeln durchweg von Menschen mittleren Gesichts und ihren Schiebetüren.",
+			"correct": false
+		},
+		{
+			"sentence": "Ohne Spannung gibt es kein Gleichgewicht, weder in der Nacht, noch in der Plastikflasche.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich wünschte, da wäre jemand, dem ich sagen könnte, wie offenherzig mir alles flankte.",
+			"correct": false
+		},
+		{
+			"sentence": "Beim ökumenischen Kirchentag genoss sie nun das Bad im Rasen.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Boden des ehemals bewaldeten Gebietes ist ausgesprochen laut.",
+			"correct": false
+		},
+		{
+			"sentence": "Als ich aufblickte, sah ich einen Mann, der sich im Zimmer anrief.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Benutzung zentraler Dienste ist an eine Hymne gebunden.",
+			"correct": false
+		},
+		{
+			"sentence": "Andreas wurde vom Polizisten angehalten, weil er den gelben Himmel überquert hatte.",
+			"correct": false
+		},
+		{
+			"sentence": "In der Woche der letzten Spaghetti hatte ich das Gefühl, dass ich durchdrehe.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Kläger verlor den Schmaus, weil er nicht auf Fakten beruhte.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich ertappe mich ab und zu, wie ich dasitze und ins Nichts schwimme.",
+			"correct": false
+		},
+		{
+			"sentence": "Wir waren fünfzig Rasen auf dem Meer, bevor wir das Land nicht mehr sehen konnten.",
+			"correct": false
+		},
+		{
+			"sentence": "Während des ganzen Martyriums schienen die Geiseln nie die Hoffnung verloren zu haben.",
+			"correct": true
+		},
+		{
+			"sentence": "Paul hat Höhenangst und weigert sich, mit dem Flugzeug zu fliegen.",
+			"correct": true
+		},
+		{
+			"sentence": "Der junge Bleistift hielt seine Augen geschlossen, bis er wieder schauen durfte.",
+			"correct": false
+		},
+		{
+			"sentence": "Die meisten Menschen, die lachen, sind besorgt darüber, ihr Gewicht zu kontrollieren.",
+			"correct": false
+		},
+		{
+			"sentence": "Wenn Laura einkaufen geht, sucht sie immer nach den niedrigsten Fluten.",
+			"correct": false
+		},
+		{
+			"sentence": "Wenn ich morgens aufstehe, füttere ich als Erstes meinen Hund.",
+			"correct": true
+		},
+		{
+			"sentence": "Nachdem ich beim Spiel so viel geschrien hatte, wusste ich, dass meine Stimme lang sein würde.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Koch holte mit der Kelle aus und traf die Tulpe an der Schulter.",
+			"correct": false
+		},
+		{
+			"sentence": "Man kann doch nicht jedes Mal Socken zu Weihnachten verschenken.",
+			"correct": true
+		},
+		{
+			"sentence": "Viele Menschen würden bestätigen, dass klein die schönste Farbe für ein Fahrrad ist.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Rauch bemerkte, dass etwas nicht stimmte mit der Verkäuferin.",
+			"correct": false
+		},
+		{
+			"sentence": "Am nächsten Morgen war auf einmal der Transporter mit der ganzen Ware verschwunden.",
+			"correct": true
+		},
+		{
+			"sentence": "Das Wetter war überaus kurz an diesem Nachmittag im September.",
+			"correct": false
+		},
+		{
+			"sentence": "Marie sollte am neuen Einkaufszentrum anhalten, um ein paar Dinge zu besorgen.",
+			"correct": true
+		},
+		{
+			"sentence": "Wenn es kalt ist, will meine Mutter immer, dass ich eine Mütze trage.",
+			"correct": true
+		},
+		{
+			"sentence": "Alle Eltern hoffen, dass ihre Listen später einmal intelligent sein werden.",
+			"correct": false
+		},
+		{
+			"sentence": "Als Tom und Anna nach Kanada zogen, veranstaltete ihr Wunsch einen großen Flohmarkt.",
+			"correct": false
+		},
+		{
+			"sentence": "Im Herbst arbeiten mein Geschenk und ich gerne zusammen im Garten.",
+			"correct": false
+		},
+		{
+			"sentence": "Martins Tochter hat gestern Vormittag in der Kirche eine furchtbare Pflaume gemacht.",
+			"correct": false
+		},
+		{
+			"sentence": "Das Reh bemerkte den Jäger nicht und lief direkt in seine Schusslinie.",
+			"correct": true
+		},
+		{
+			"sentence": "Da es das letzte Spiel war, konnten sie nur schwer mit der Niederlage umgehen.",
+			"correct": true
+		},
+		{
+			"sentence": "Da Sarah immer früh zur Klinge kommt, bekommt sie meistens einen guten Parkplatz.",
+			"correct": false
+		},
+		{
+			"sentence": "Das einzige Möbelstück, das Stefan in seiner ersten Schüssel hatte, war sein Wasserbett.",
+			"correct": false
+		},
+		{
+			"sentence": "Letztes Jahr musste Michael nachsitzen, weil er im Flur gerannt war.",
+			"correct": true
+		},
+		{
+			"sentence": "Die riesigen Wolken bedeckten die morgendliche Rutsche und es fing an zu regnen.",
+			"correct": false
+		},
+		{
+			"sentence": "Nach der ersten Verabredung wusste ich, dass Lindas Schwester einfach nicht mein Typ war.",
+			"correct": true
+		},
+		{
+			"sentence": "Die einzige Tasse dieser Woche bestand darin, das Badezimmer zu putzen.",
+			"correct": false
+		},
+		{
+			"sentence": "Das Erste, was Simon entsorgen würde, war der hässliche, alte Teppich.",
+			"correct": true
+		},
+		{
+			"sentence": "Manche Pflanzen brauchen nur sehr wenig Kalender, um zu überleben.",
+			"correct": false
+		},
+		{
+			"sentence": "Es war nicht zu übersehen, dass sie ein Auge auf ihn gelesen hatte.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich kann nur gut arbeiten, wenn alles einer ordentlichen Struktur entspricht.",
+			"correct": true
+		},
+		{
+			"sentence": "Am Montagabend wurde ein junger Mann aus Kamerun von Jugendlichen angegriffen.",
+			"correct": true
+		},
+		{
+			"sentence": "Jan brach sich den Arm, als er vom Baum auf den Boden fiel.",
+			"correct": true
+		},
+		{
+			"sentence": "Die meisten Leute sind sich einig, dass Montag der schlimmste Stab der Woche ist.",
+			"correct": false
+		},
+		{
+			"sentence": "An warmen, sonnigen Nachmittagen gehe ich gern im Park spazieren.",
+			"correct": false
+		},
+		{
+			"sentence": "Meine Mutter sagt mir immer, dass es nicht höflich ist zu glänzen.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Limonadenspieler entschlossen sich, zwei von drei Sätzen zu spielen.",
+			"correct": false
+		},
+		{
+			"sentence": "Das Erziehen von Kindern erfordert viel Staub und Standhaftigkeit.",
+			"correct": false
+		},
+		{
+			"sentence": "Während der gesamten Zeit in Frankreich blies der Wind unwahrscheinlich kalt von Norden.",
+			"correct": true
+		},
+		{
+			"sentence": "Als sie aus dem Geschäft kam, wurde sie von einem Passanten getrunken.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Spieler traf das Tor besser, als ich es jemals erwartet hätte.",
+			"correct": true
+		},
+		{
+			"sentence": "Tina hörte auf, sich mit dem Licht zu treffen, als sie erfuhr, dass er verheiratet war.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich sagte meinen Schülern, sie würden eine Uberraschung bekommen, wenn sie orange wären.",
+			"correct": false
+		},
+		{
+			"sentence": "Tom war so müde vom Lernen, dass er keine einzige Seite mehr lesen konnte.",
+			"correct": true
+		},
+		{
+			"sentence": "Obwohl Jonas manchmal sarkastisch ist, kann er doch auch sehr lieb sein.",
+			"correct": true
+		},
+		{
+			"sentence": "Caro wird ihren Schuh fragen, wie viel der Flug nach Mexiko kostet.",
+			"correct": false
+		},
+		{
+			"sentence": "Eine Nutzung zu gewerblichen Zwecken oder eine Vermietung zu Wohnzwecken ist schädlich.",
+			"correct": true
+		},
+		{
+			"sentence": "Auch dass negative Rückkopplungen vorhanden sind, erkennt man auf den zweiten Blick.",
+			"correct": true
+		},
+		{
+			"sentence": "Wenn wir uns aber ihrer Belehrung hingeben, erhalten wir Einblicke in die Natur.",
+			"correct": true
+		},
+		{
+			"sentence": "Die Flaschenpost als Mittel der Verständigung hatte schlagartig an Bedeutung verloren.",
+			"correct": true
+		},
+		{
+			"sentence": "Sie vergaß immer die Tatsache der Vorhersagbarkeit einer willkürlichen Bewegung.",
+			"correct": true
+		},
+		{
+			"sentence": "Nachdem die Skulptur restauriert worden war, stand sie wieder an ihrem Platz.",
+			"correct": true
+		},
+		{
+			"sentence": "Das Wetter wechselte in jenem Sommer ständig, und niemand plante über den Tag hinaus.",
+			"correct": true
+		},
+		{
+			"sentence": "Nach Abschluss aller Prüfungen feierte die Klasse eine ganze Woche lang ohne Pause.",
+			"correct": true
+		},
+		{
+			"sentence": "Ohne zu zögern, löste er die schwierige Physikaufgabe auf Anhieb richtig.",
+			"correct": true
+		},
+		{
+			"sentence": "Die arme Frau war nach solchen Träumen fest davon überzeugt, sie würde sterben.",
+			"correct": true
+		},
+		{
+			"sentence": "Es ist natürlich möglich, dass sich das Leben gar nicht auf der Erde entwickelt hat.",
+			"correct": true
+		},
+		{
+			"sentence": "Als Konsequenz seiner Fehlentscheidung verlor er den Posten als Direktor.",
+			"correct": true
+		},
+		{
+			"sentence": "Um die Wirkung des Medikaments zu bestimmen, untersuchte der Arzt alle Patientinnen.",
+			"correct": true
+		},
+		{
+			"sentence": "Wenn die Indizienkette nicht täuschte, gab es eine tödliche Verschwörung gegen ihn.",
+			"correct": true
+		},
+		{
+			"sentence": "Ihn stört, dass sie stets entweder Bonbons lutscht oder auf ihren Nägeln kaut.",
+			"correct": true
+		},
+		{
+			"sentence": "Er stand dort am Rande der Menge, während sie sangen, und wirkte traurig.",
+			"correct": true
+		},
+		{
+			"sentence": "Was jetzt vor ihr lag, war etwas vollkommen anderes, vielleicht das wirkliche Leben.",
+			"correct": true
+		},
+		{
+			"sentence": "Mit einer Mischung aus Ekel und Faszination starrte Marion auf die Bilder.",
+			"correct": true
+		},
+		{
+			"sentence": "Wir Jungs wollten sie warnen, aber als es brenzlig wurde, bekamen wir selbst Angst.",
+			"correct": true
+		},
+		{
+			"sentence": "Manchmal erwacht die Stadt, in der ich lebe, in einer seltsamen Stimmung.",
+			"correct": true
+		},
+		{
+			"sentence": "Die alte Frau traf ihren neuen Nachbarn auf dem langen Marsch ins Zentrum.",
+			"correct": true
+		},
+		{
+			"sentence": "Um den Vertrag zu erfüllen, kämpften die Holzfäller stundenlang mit dem mächtigen Strom.",
+			"correct": true
+		},
+		{
+			"sentence": "Das Geräusch eines nahenden Zuges weckte ihn, und er stand mit einem Satz auf.",
+			"correct": true
+		},
+		{
+			"sentence": "Das ungestüme Kreischen der Kinder war eine Zumutung für die alten Leute im Haus.",
+			"correct": true
+		},
+		{
+			"sentence": "Verglichen mit früheren Stücken spielte der Musiker jetzt einen eigenwilligen Stil.",
+			"correct": true
+		},
+		{
+			"sentence": "Die Ingenieure entschieden sich für eine längere Mittagspause und gingen zum Essen.",
+			"correct": true
+		},
+		{
+			"sentence": "Fest steht, dass die vielen Prozesse die Börse völlig undurchsichtig gemacht haben.",
+			"correct": true
+		},
+		{
+			"sentence": "Trotz der ungewöhnlich kühlen Witterung begannen die Radwanderer ihre Fahrt.",
+			"correct": true
+		},
+		{
+			"sentence": "Um das Wohnprojekt zu entwickeln, erhielt der Geschäftsführer eine Frist von einem Monat.",
+			"correct": true
+		},
+		{
+			"sentence": "Aber er hat einige Zeichen gesetzt, die Hinweise auf seine Entscheidungen geben.",
+			"correct": true
+		},
+		{
+			"sentence": "Von den Rauchern verlangte man die Einhaltung des Verbots im Bereich der Ausstellung.",
+			"correct": true
+		},
+		{
+			"sentence": "Er lehnte am Brückengeländer und die beiden Killer beobachteten ihn aus der Ferne.",
+			"correct": true
+		},
+		{
+			"sentence": "Aus dem Spiegel heraus musterten mich diese melancholischen Augen mit stolzem Blick.",
+			"correct": true
+		},
+		{
+			"sentence": "Manchmal dachte er an Selbstmord, aber das war zu bedrückend und machte keinen Sinn.",
+			"correct": true
+		},
+		{
+			"sentence": "Jetzt, nachdem ein Mensch gestorben ist, wird die Situation eine andere sein.",
+			"correct": true
+		},
+		{
+			"sentence": "Als ich wieder am großen Tabakfeld vorbeikam, sah man die Schäden kaum noch.",
+			"correct": true
+		},
+		{
+			"sentence": "Wie auch anderswo, ist das Verfahren hier das Wichtigste und wird umfassend dokumentiert.",
+			"correct": true
+		},
+		{
+			"sentence": "Es war dein Glaube an den Sinn meiner Schmerzen, der mich durchhalten ließ.",
+			"correct": true
+		},
+		{
+			"sentence": "Zwei oder drei dicke Holzscheite glühten im Herd, denn die Nacht war kalt.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich fand, er müsse sich endlich entscheiden, sonst hätten wir die Presse gegen uns.",
+			"correct": true
+		},
+		{
+			"sentence": "Es war noch über eine Stunde hin bis zum Morgenappell und die Kaserne lag in tiefem Schlaf.",
+			"correct": true
+		},
+		{
+			"sentence": "Diese Durchsage würde man überall empfangen, selbst in den entlegensten Gegenden.",
+			"correct": true
+		},
+		{
+			"sentence": "Es wäre ein sinnvolles Vorhaben, dies in einer Weise zu tun, die auch Menschen einplant.",
+			"correct": true
+		},
+		{
+			"sentence": "Während er es mit dem Messer heraustrennte und aufrollte, verbog sich der Rand.",
+			"correct": true
+		},
+		{
+			"sentence": "Er lachte spöttisch und sah aus, als könnte er mich erwürgen für diesen Fehler.",
+			"correct": true
+		},
+		{
+			"sentence": "Er ertrug eine weitere Aufdringlichkeit und kam sich nun unheimlich überlegen vor.",
+			"correct": true
+		},
+		{
+			"sentence": "Wie der Leser bereits ahnen mag, entkam ich dem Gesetz wiederum nur durch einen Trick.",
+			"correct": true
+		},
+		{
+			"sentence": "Die Frau zögerte, bevor sie die Zwiebeln probierte, denn ihr Mann hasste den Geruch.",
+			"correct": true
+		},
+		{
+			"sentence": "Der Leutnant saß neben dem Mann mit dem Funkgerät und starrte vor sich in den Schlamm.",
+			"correct": true
+		},
+		{
+			"sentence": "Wenn sie Kummer haben, hoffen Kinder natürlich auf das Einschreiten eines Supermanns.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich bin nicht in der Lage, irgendwem zu erklären, wie aufregend das alles war.",
+			"correct": true
+		},
+		{
+			"sentence": "Manchmal werde ich müde, wenn ich an die Unendlichkeit des Universums denke.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich bin nicht sicher, was schiefging, aber ich glaube, meine gereizte Laune war schuld.",
+			"correct": true
+		},
+		{
+			"sentence": "Am Vormittag sind die Täter ins Haus eingedrungen sein und haben den Mann überwältigt.",
+			"correct": true
+		},
+		{
+			"sentence": "Sprachkurse bedeuten weitere Ausgaben, die die Statistik nicht erfasst.",
+			"correct": true
+		},
+		{
+			"sentence": "Im Winter kann man an der Küste sehr günstige Zimmer bekommen.",
+			"correct": true
+		},
+		{
+			"sentence": "Die Leute in unserer Stadt sind in der Weihnachtszeit viel spendabler und fröhlicher.",
+			"correct": true
+		},
+		{
+			"sentence": "Wenn die letzten Prüfungen vorbei sind, können wir eine wohlverdiente Pause machen.",
+			"correct": true
+		},
+		{
+			"sentence": "Nach einem langen Arbeitstag geht Peter oft in die Kneipe, um zu entspannen.",
+			"correct": true
+		},
+		{
+			"sentence": "Egal wie oft wir mit ihm sprechen, er wird sich nie ändern.",
+			"correct": true
+		},
+		{
+			"sentence": "Ich blätterte in meinen Erinnerungen wie in den Eimern einer alten Zeitung.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich nehme an, du hast schon einen klugen Verdacht über die Kühltruhe meines Besuchs.",
+			"correct": false
+		},
+		{
+			"sentence": "Der brillante Anwalt beeindruckte die Richter durch seine kühle Baumrinde der Tat.",
+			"correct": false
+		},
+		{
+			"sentence": "Als Ursache für den Diebstahl nannte man Mangel an Respekt vor den Dübeln.",
+			"correct": false
+		},
+		{
+			"sentence": "Um die Reise antreten zu können, verschob er alle Schrauben um eine Woche.",
+			"correct": false
+		},
+		{
+			"sentence": "Ich fand den Hauptredner unglaublich langweilig, gelb und nicht sehr verleimt.",
+			"correct": false
+		},
+		{
+			"sentence": "Nach ihrem Konzert wurden die Musiker von der Menge begeistert geschrumpft.",
+			"correct": false
+		},
+		{
+			"sentence": "In einem Moment völliger Spontaneität entwickelte sie die Zehennägel ihres Vortrags.",
+			"correct": false
+		},
+		{
+			"sentence": "In vollem Umfang erkannte man die verheerende Postkarte des Regals erst Monate später.",
+			"correct": false
+		},
+		{
+			"sentence": "Eine Öllampe brannte im Flur, zwei Männer kauerten an der Demokratie und beobachteten.",
+			"correct": false
+		},
+		{
+			"sentence": "Vor allem die Produkte moderner Elektronik prägen die Wohnung der nächsten Zukunft.",
+			"correct": false
+		},
+		{
+			"sentence": "Ein Problem an diesem Vorschlag ist das Risiko einer blondierten Täuschung.",
+			"correct": false
+		},
+		{
+			"sentence": "Zum Sündenbock wird mancher Außenseiter erst nach seinem Eintritt in die Regentonne.",
+			"correct": false
+		},
+		{
+			"sentence": "Voll mit diesen schlimmen Vorahnungen, öffnete ich ängstlich das schwere hölzerne Wasser.",
+			"correct": false
+		},
+		{
+			"sentence": "Übermüdet, wie er war, sah er ein fettes Hochhaus vor dem Frosch.",
+			"correct": false
+		},
+		{
+			"sentence": "Wie sich gezeigt hat, ist das Bewerbungsgespräch eine Angstsituation für viele Würfel.",
+			"correct": false
+		},
+		{
+			"sentence": "Weil sie die die beste Ausbildung genoss, kommt ihre Dattelpalme nicht von ungefähr.",
+			"correct": false
+		},
+		{
+			"sentence": "Wegen der vielen Fehltage nehmen Arbeitgeber oft Abstand von alleinerziehenden Kindern.",
+			"correct": false
+		},
+		{
+			"sentence": "Und wenn es noch ging, kamen auch noch die Schnürsenkel und Bürsten ins Zimmer.",
+			"correct": false
+		},
+		{
+			"sentence": "Es war schon ein Kasten Mineralwasser geleert worden, und eine Apfelsine stand im Tor.",
+			"correct": false
+		},
+		{
+			"sentence": "Wer viele Informationen bekommt und verarbeitet, benötigt oft ein Fahrrad zum Essen.",
+			"correct": false
+		},
+		{
+			"sentence": "Dem Ergebnis der Umfrage zufolge war Heinz Rühmann damals das Stickstoffmolekül.",
+			"correct": false
+		},
+		{
+			"sentence": "Die ganze Stadt kam und verfolgte gespannt den Auftritt des umstrittenen Baums.",
+			"correct": false
+		},
+		{
+			"sentence": "Petras Vater hatte gemeint, ihrem neuen Verehrer fehle es an Bananen.",
+			"correct": false
+		},
+		{
+			"sentence": "Schließlich würde er nicht weit kommen und drehte seinen Brustkorb um.",
+			"correct": false
+		},
+		{
+			"sentence": "Die Mutter des Bräutigams kritisierte ständig ihren mangelnden Kopfhörer.",
+			"correct": false
+		},
+		{
+			"sentence": "Alle Sätze der Logik sagen aber immer nur dasselbe, nämlich unverhofft.",
+			"correct": false
+		},
+		{
+			"sentence": "Der Zucker konnte nicht glauben, dass man ihm so ein tolles Angebot unterbreitete.",
+			"correct": false
+		}
+	]
+}
