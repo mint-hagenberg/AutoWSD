@@ -34,7 +34,7 @@ Submodules:
 
 Provides an EventManager responsible for passing data through the simulation.
 Based on the subscriber pattern and emphasizes loose coupling between components.
-Examples: 
+Examples:
  - When the user performs a certain gesture, cancel the current task.
  - When the vehicle arrives at a crossing, stop the vehicle.
 
@@ -93,9 +93,9 @@ Pedals and steering wheels are only working in "Manual Driving" mode. In "Automa
 
 Simulates a windshield display (WSD) or large head-up display (HUD).
 
-![WSD HUD](https://raw.github.com/mint-hagenberg/AutoWSD/master/screenshots/WSD_HUD.png)
+![WSD HUD](https://raw.github.com/mint-hagenberg/AutoWSD/master/screenshots/WSD_HUD.PNG)
 
-![WSD Warning](https://raw.github.com/mint-hagenberg/AutoWSD/master/screenshots/WSD_Warning.png)
+![WSD Warning](https://raw.github.com/mint-hagenberg/AutoWSD/master/screenshots/WSD_Warning.PNG)
 
 ### Traffic System
 
